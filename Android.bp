@@ -30,6 +30,7 @@ android_app {
         "androidx.core_core",
         "telecom_flags_core_java_lib",
         "org.lineageos.lib.phone",
+        "org.lineageos.platform.internal",
     ],
     libs: [
         "services",
